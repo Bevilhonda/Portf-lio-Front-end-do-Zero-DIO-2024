@@ -39,7 +39,7 @@
 
 <h1 align="center"> 
 
-✅  https://portifolio-challenge-alura-2024.vercel.app/<br> 
+✅  https://portf-lio-front-end-do-zero-dio-2024-k6793xz7f.vercel.app/<br> 
 
 </h1>
 
